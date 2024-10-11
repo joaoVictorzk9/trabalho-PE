@@ -1,0 +1,56 @@
+C:\Users\P240194\Downloads\trabalho Avaliativo\trabalho\bin\Debug\net8.0\trabalho.exe
+C:\Users\P240194\Downloads\trabalho Avaliativo\trabalho\bin\Debug\net8.0\trabalho.deps.json
+C:\Users\P240194\Downloads\trabalho Avaliativo\trabalho\bin\Debug\net8.0\trabalho.runtimeconfig.json
+C:\Users\P240194\Downloads\trabalho Avaliativo\trabalho\bin\Debug\net8.0\trabalho.dll
+C:\Users\P240194\Downloads\trabalho Avaliativo\trabalho\bin\Debug\net8.0\trabalho.pdb
+C:\Users\P240194\Downloads\trabalho Avaliativo\trabalho\obj\Debug\net8.0\trabalho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P240194\Downloads\trabalho Avaliativo\trabalho\obj\Debug\net8.0\trabalho.AssemblyInfoInputs.cache
+C:\Users\P240194\Downloads\trabalho Avaliativo\trabalho\obj\Debug\net8.0\trabalho.AssemblyInfo.cs
+C:\Users\P240194\Downloads\trabalho Avaliativo\trabalho\obj\Debug\net8.0\trabalho.csproj.CoreCompileInputs.cache
+C:\Users\P240194\Downloads\trabalho Avaliativo\trabalho\obj\Debug\net8.0\trabalho.dll
+C:\Users\P240194\Downloads\trabalho Avaliativo\trabalho\obj\Debug\net8.0\refint\trabalho.dll
+C:\Users\P240194\Downloads\trabalho Avaliativo\trabalho\obj\Debug\net8.0\trabalho.pdb
+C:\Users\P240194\Downloads\trabalho Avaliativo\trabalho\obj\Debug\net8.0\trabalho.genruntimeconfig.cache
+C:\Users\P240194\Downloads\trabalho Avaliativo\trabalho\obj\Debug\net8.0\ref\trabalho.dll
+C:\vsCode\trabalho PE não documentado\bin\Debug\net8.0\trabalho.exe
+C:\vsCode\trabalho PE não documentado\bin\Debug\net8.0\trabalho.deps.json
+C:\vsCode\trabalho PE não documentado\bin\Debug\net8.0\trabalho.runtimeconfig.json
+C:\vsCode\trabalho PE não documentado\bin\Debug\net8.0\trabalho.dll
+C:\vsCode\trabalho PE não documentado\bin\Debug\net8.0\trabalho.pdb
+C:\vsCode\trabalho PE não documentado\obj\Debug\net8.0\trabalho.GeneratedMSBuildEditorConfig.editorconfig
+C:\vsCode\trabalho PE não documentado\obj\Debug\net8.0\trabalho.AssemblyInfoInputs.cache
+C:\vsCode\trabalho PE não documentado\obj\Debug\net8.0\trabalho.AssemblyInfo.cs
+C:\vsCode\trabalho PE não documentado\obj\Debug\net8.0\trabalho.csproj.CoreCompileInputs.cache
+C:\vsCode\trabalho PE não documentado\obj\Debug\net8.0\trabalho.dll
+C:\vsCode\trabalho PE não documentado\obj\Debug\net8.0\refint\trabalho.dll
+C:\vsCode\trabalho PE não documentado\obj\Debug\net8.0\trabalho.pdb
+C:\vsCode\trabalho PE não documentado\obj\Debug\net8.0\trabalho.genruntimeconfig.cache
+C:\vsCode\trabalho PE não documentado\obj\Debug\net8.0\ref\trabalho.dll
+C:\Users\joao victor\Downloads\trabalho PE não documentado\bin\Debug\net8.0\trabalho.exe
+C:\Users\joao victor\Downloads\trabalho PE não documentado\bin\Debug\net8.0\trabalho.deps.json
+C:\Users\joao victor\Downloads\trabalho PE não documentado\bin\Debug\net8.0\trabalho.runtimeconfig.json
+C:\Users\joao victor\Downloads\trabalho PE não documentado\bin\Debug\net8.0\trabalho.dll
+C:\Users\joao victor\Downloads\trabalho PE não documentado\bin\Debug\net8.0\trabalho.pdb
+C:\Users\joao victor\Downloads\trabalho PE não documentado\obj\Debug\net8.0\trabalho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao victor\Downloads\trabalho PE não documentado\obj\Debug\net8.0\trabalho.AssemblyInfoInputs.cache
+C:\Users\joao victor\Downloads\trabalho PE não documentado\obj\Debug\net8.0\trabalho.AssemblyInfo.cs
+C:\Users\joao victor\Downloads\trabalho PE não documentado\obj\Debug\net8.0\trabalho.csproj.CoreCompileInputs.cache
+C:\Users\joao victor\Downloads\trabalho PE não documentado\obj\Debug\net8.0\trabalho.dll
+C:\Users\joao victor\Downloads\trabalho PE não documentado\obj\Debug\net8.0\refint\trabalho.dll
+C:\Users\joao victor\Downloads\trabalho PE não documentado\obj\Debug\net8.0\trabalho.pdb
+C:\Users\joao victor\Downloads\trabalho PE não documentado\obj\Debug\net8.0\trabalho.genruntimeconfig.cache
+C:\Users\joao victor\Downloads\trabalho PE não documentado\obj\Debug\net8.0\ref\trabalho.dll
+c:\Users\joao victor\Downloads\trabalho PE documentado\bin\Debug\net8.0\trabalho.exe
+c:\Users\joao victor\Downloads\trabalho PE documentado\bin\Debug\net8.0\trabalho.deps.json
+c:\Users\joao victor\Downloads\trabalho PE documentado\bin\Debug\net8.0\trabalho.runtimeconfig.json
+c:\Users\joao victor\Downloads\trabalho PE documentado\bin\Debug\net8.0\trabalho.dll
+c:\Users\joao victor\Downloads\trabalho PE documentado\bin\Debug\net8.0\trabalho.pdb
+c:\Users\joao victor\Downloads\trabalho PE documentado\obj\Debug\net8.0\trabalho.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\joao victor\Downloads\trabalho PE documentado\obj\Debug\net8.0\trabalho.AssemblyInfoInputs.cache
+c:\Users\joao victor\Downloads\trabalho PE documentado\obj\Debug\net8.0\trabalho.AssemblyInfo.cs
+c:\Users\joao victor\Downloads\trabalho PE documentado\obj\Debug\net8.0\trabalho.csproj.CoreCompileInputs.cache
+c:\Users\joao victor\Downloads\trabalho PE documentado\obj\Debug\net8.0\trabalho.dll
+c:\Users\joao victor\Downloads\trabalho PE documentado\obj\Debug\net8.0\refint\trabalho.dll
+c:\Users\joao victor\Downloads\trabalho PE documentado\obj\Debug\net8.0\trabalho.pdb
+c:\Users\joao victor\Downloads\trabalho PE documentado\obj\Debug\net8.0\trabalho.genruntimeconfig.cache
+c:\Users\joao victor\Downloads\trabalho PE documentado\obj\Debug\net8.0\ref\trabalho.dll
